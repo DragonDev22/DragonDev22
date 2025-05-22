@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Videogames, Music, Art, 3D modelling, Game Design, Game Dev, Etc.
 - 🌱 I’m currently learning Rust, LMMS, and Godot
 - 💞️ I’m looking to collaborate on anything really!
-- 📫 How to reach me: Discord (@dragondev22), linktree: (https://linktr.ee/DragonDev22)
+- 🖥️ [Website](https://dragondev22.github.io)
 - 😄 Pronouns: He/Him
 <!---
 Dragon22Gaming/Dragon22Gaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
